@@ -90,7 +90,8 @@ Command line arguments for ocr_with_kraken.py:
                     (should be in models folder)
 -x, --pagexml : export files in pagexml format
 -a, --alto : export files in alto xml format
--r, --hocr : export files in hocr xml format```
+-r, --hocr : export files in hocr xml format
+```
 
 ## Retrieve output files:
 After the script finishes, the final files will be in the OUTPUT_FILES folder. For each text, it will contain
