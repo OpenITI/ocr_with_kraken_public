@@ -1,0 +1,5 @@
+.python-version
+INPUT_FILES/*
+!INPUT_FILES/README.md
+TEMP/*
+!TEMP/README.md
