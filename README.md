@@ -4,12 +4,13 @@ A pipeline for OCR'ing files with Kraken for the OpenITI project.
 Clone this repo, add pdf/image files to the INPUT_FILES folder,
 and run the `ocr_pipeline.py` script to OCR your texts into OpenITI format.
 Add, commit and push your output files back to the OpenITI GitHub. 
+
 NB: only the output files will be pushed back to GitHub,
 the files in the INPUT_FILES and TEMP folders will stay on your machine
 (for copyright reasons).
 
-NB: if you don't want to run OCR yourself but have pdfs you would like to have OCR'ed, use this repo to submit your files (only for KITAB team meambers): 
-https://github.com/OpenITI/ocr_with_kraken
+*If you don't want to run OCR yourself but have pdfs you would like to have OCR'ed, use this repo to submit your files (only for KITAB team members): 
+https://github.com/OpenITI/ocr_with_kraken*
 
 ## 1. Submitting files for OCR
 
